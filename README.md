@@ -1,5 +1,18 @@
 # A Modern UI/UX Weather App
 
+A modern weather application built with **Next.js 14**, **ShadCn UI**, **Tailwind CSS** and **OpenWeather API**, providing real-time weather updates by city name. Fully responsive, minimal UI, and fast — ideal for learning and showcasing weather data integration.
+
+![Screenshot - Light Mode](/Light.png)
+![Screenshot - Dark Mode](/Dark.png)
+
+## 🚀 Features
+
+- 🔍 Search weather by city name
+- 🌡️ Display temperature, humidity, wind, and weather conditions with 5 days forecast
+- 📍 Geo-location support (optional)
+- 📱 Fully responsive design
+- ⚡ Fast performance using Next.js
+- ☁️ Live data from [OpenWeather API](https://openweathermap.org/)
 
 ## ⚙️ Installation
 
