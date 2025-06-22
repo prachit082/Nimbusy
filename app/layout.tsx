@@ -13,8 +13,8 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "PP's Weather App",
-  description: "A Simple Weather App",
+  title: "Nimbusy",
+  description: "A Modern UI/UX Weather App",
 };
 
 export default function RootLayout({
