@@ -42,6 +42,17 @@ export default function RootLayout({
                 <Navbar />
               </div>
               <div className="container">{children}</div>
+              {/* Footer */}
+              <footer className="w-full text-center py-4 text-muted-foreground text-sm border-t border-border mt-10">
+                © {new Date().getFullYear()}{" "}
+                <a
+                  className="text-blue-500"
+                  href="https://github.com/prachit082/Nimbusy.git"
+                >
+                  Nimbusy
+                </a>
+                . All rights reserved.
+              </footer>
             </main>
           </ThemeProvider>
         </LocationContextProvider>
